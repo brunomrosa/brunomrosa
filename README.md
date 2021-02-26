@@ -5,8 +5,8 @@
 #### Fullstack Developer and Analysis and Systems Development Student
 
 <a href="https://github.com/brunomrosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomrosa&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomrosa&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomrosa&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomrosa&layout=compact&theme=radical&count_private=true" />
 </a>
 
 #### Here are some info about me: 
