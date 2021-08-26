@@ -11,7 +11,7 @@
 
 #### Here are some info about me: 
 
-- 🎓 I'm a student of the 3th period of Analysis and Systems Development at [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/) in São José dos Campos.
+- 🎓 I'm a student of the 4th period of Analysis and Systems Development at [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/) in São José dos Campos.
 - 💻 I’m currently working on Zappts, as a Front-End Developer.
 - 📚 I’m currently learning TDD and DDD. And looking to intensify my knowledge in Javascript, Nodejs and Reactjs. 
 - :zap: I love to learn about best and new techniques to develop projects.
